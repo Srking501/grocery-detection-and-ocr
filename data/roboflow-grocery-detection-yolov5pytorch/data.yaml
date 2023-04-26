@@ -1,3 +1,4 @@
+path: ../data/roboflow-grocery-detection-yolov5pytorch
 train: ../train/images
 val: ../valid/images
 test: ../test/images
