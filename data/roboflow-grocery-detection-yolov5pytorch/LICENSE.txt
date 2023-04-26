@@ -1,0 +1,7 @@
+All photos and data contained in this directory (the "Photos") are provided for the exclusive use by you and solely for academic and non-commercial purposes. 
+You shall not, directly or indirectly: (i) transfer, distribute, disseminate or otherwise provide access to the Photos; (ii) sell, offer to sell, transfer, market or otherwise commercialize the Photos; (iii) modify, copy or create derivative works of the Photos.
+You acknowledge and agree that the Photos are: (i) confidential information of Trax; (ii) protected by copyright, trademark and/or design protection laws and/or any other intellectual property laws in any jurisdiction worldwide.  
+Trax accepts no responsibility, obligation or liability (whether direct or indirect, in contract, tort or otherwise) in relation to the Photos. 
+
+For more information visit:
+https://github.com/eg4000/SKU110K_CVPR19
