@@ -9,6 +9,13 @@ git clone https://github.com/Srking501/grocery-detection-and-ocr --recurse-submo
 pip install -r yolov5/requirements.txt
 ```
 
+**If you have not added the `--recurse-submodules`:**
+
+```bash
+git submodule init
+git submodule update
+```
+
 ## To Run the Model
 
 ```bash
