@@ -1,4 +1,4 @@
 # TODO
 
-* [ ] Train over the grocery dataset
-* [ ] Deploy in Roboflow and use the webcam to test the model
+* [x] Train over the grocery dataset
+* [x] Deploy in Roboflow and use the webcam to test the model
